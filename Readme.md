@@ -1,7 +1,7 @@
 ## SysidRFcavity
 
 Software for open-loop simulations
-  * V. Ziemann, *Simulations of real-time system identification for superconducting cavities with a recursive least-squares algorithm*, Physical Review Accelerators and Beams 26 (2023) 112003 and [arXiv:2309.01653](https://arxiv.org/abs/2309.01653), September 2023.
+  * V. Ziemann, *Simulations of real-time system identification for superconducting cavities with a recursive least-squares algorithm*, [Physical Review Accelerators and Beams 26 (2023) 112003](https://doi.org/10.1103/PhysRevAccelBeams.26.112003) and [arXiv:2309.01653](https://arxiv.org/abs/2309.01653), September 2023.
   * **run_simulation_v3_1.m**, code for the open-loop simulations.
 
 
