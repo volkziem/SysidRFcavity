@@ -1,7 +1,9 @@
 ## SysidRFcavity
 
 Software for the "New method" paper on how to measure Q0
-  * V. Ziemann, *A new method to measure the unloaded quality factor of superconducting cavities*, [arXiv:2312.17548](http://arxiv.org/abs/2312.17548), December 2023.
+  * V. Ziemann, *A new method to measure the unloaded quality factor of superconducting cavities*,
+   [Physical Review Accelerators and Beams 27 (2024) 032001](https://doi.org/10.1103/PhysRevAccelBeams.27.032001)
+   and [arXiv:2312.17548](http://arxiv.org/abs/2312.17548), December 2023.
   * **run_simulation_v4.1.m**, code to measure the unloaded quality factor.
 
 Software for open-loop simulations
