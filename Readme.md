@@ -21,4 +21,5 @@ Software for closed-loop simulations
 Software to analyze data from the Vertical Test Assembly at Jefferson Lab in February 2026.
 * **pulse_mode_vta.m**
 
-Jefferson Lab tech note JLAB-TN-26-108 about the analysis.
+Jefferson Lab tech note [JLAB-TN-26-108](https://jlabdoc.jlab.org/docushare/dsweb/Get/Document-312462/26-108.pdf)
+about the analysis.
