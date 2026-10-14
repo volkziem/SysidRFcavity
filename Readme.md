@@ -17,3 +17,8 @@ Software for closed-loop simulations
   * **calculate_mu_PD.m**, the code from Appendix A;
   * **calculate_mu_PI.m**, the code from Appendix B;
   * **calculate_mu_PID.m**, the code from Appendix C.
+
+Software to analyze data from the Vertical Test Assembly at Jefferson Lab in February 2026.
+* **pulse_mode_vta.m**
+
+Jefferson Lab tech note JLAB-TN-26-108 about the analysis.
